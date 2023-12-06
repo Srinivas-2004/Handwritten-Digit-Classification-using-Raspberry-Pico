@@ -128,6 +128,4 @@ In this project, we set out to turn our Raspberry Pi Pico into a handwriting det
 
 Our inspiration came from [Handwritten digit classification using Raspberry Pi Pico and Machine Learning](https://ashishware.com/2022/09/03/pipico_digit_classification/), but we put our own spin on it. We had to pick the right gear, get those wires connected just right, and make sure we had all the software bits in place. Don't forget the `arial.bdf` font file – it's the unsung hero that made text pop on the screen!
 
-The coolest part? Our Raspberry Pi Pico pulled off the whole show by itself. No fancy computers or clouds needed. It's a testament to what these tiny machines can do when we get creative.
-
 As we wrap things up, we hope this project sparks your imagination. Maybe you'll find your own way to combine microcontrollers, machine learning, and cool displays to bring your ideas to life. Remember, with a dash of patience and a sprinkle of determination, you can make some seriously awesome stuff. 
