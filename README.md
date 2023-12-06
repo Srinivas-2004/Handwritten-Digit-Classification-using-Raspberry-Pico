@@ -78,7 +78,7 @@ Please note that you'll need to configure your IDE to work with your Raspberry P
 
 ## Raspberry Pi Pico Pin Diagram
 
-![Raspberry Pi Pico Pin Diagram](Raspberry Pico pin diagram.jpg)
+![Raspberry Pi Pico Pin Diagram](Raspberry_Pico_pin_diagram.jpg)
 
 ## Wiring
 
