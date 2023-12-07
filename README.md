@@ -123,6 +123,10 @@ For this project, a substantial amount of wiring is required. It is highly recom
 | GND             | GND                                |
 
 
+## This is how our post-processed image which is sent to the ML model looks like:
+
+![Output](5.jpg)
+
 ## Wrapping It Up
 
 In this project, we set out to turn our Raspberry Pi Pico into a handwriting detective. We wanted it to look at handwritten digits through its trusty OV7670 camera, figure out what they were, and proudly display the results on its 128x160 TFT LCD screen.
