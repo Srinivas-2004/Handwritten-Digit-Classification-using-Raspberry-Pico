@@ -1,4 +1,4 @@
-![PROJECT](Digit_Classification.jpg)
+![PROJECT](Digit_Classification.jpeg)
 # Table of Contents
 
   -   [Creating a Handwritten Digit Classification System with Raspberry Pi Pico](#creating-a-handwritten-digit-classification-system-with-raspberry-pi-pico)
